@@ -62,3 +62,5 @@ Steady weekly sales growth was observed, with a major spike towards the end of t
 ✅ Conclusion
 
 This Power BI dashboard offers a powerful way to track and understand Amazon product sales performance. It transforms raw data into meaningful insights, allowing users to make informed decisions related to sales strategy, marketing, and product management.
+
+Screenshort :- https://github.com/mdtufail25/AMAZON-PROJECT-DASHBOARD/blob/main/AMAZON%20PROJECT%20SC.jpg
